@@ -1,0 +1,10 @@
+21:12:46 **** Incremental Build of configuration Debug for project F446RE_RTOS_A1 ****
+make -j16 all 
+arm-none-eabi-size  F446RE_RTOS_A1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18624	     16	  17952	  36592	   8ef0	F446RE_RTOS_A1.elf
+Finished building: default.size.stdout
+ 
+
+21:12:47 Build Finished. 0 errors, 0 warnings. (took 242ms)
+
